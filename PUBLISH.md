@@ -6,11 +6,17 @@
 |------|------|------|---------|------|
 | GitHub | ✅ 已上架 | https://github.com/simonsxxs/electron-licensing-insights | 2026-10-12 | 专属仓，主开发副本 |
 | Gitee | ✅ 已上架 | https://gitee.com/simonsxx/electron-licensing-insights | 2026-10-12 | GitHub 同步镜像 |
-| SkillHub | ⏳ 审核中 | https://skillhub.cn/skill/electron-licensing-insights | 2026-10-12 | GitHub 导入发布，API 201，安全审核中 |
+| SkillHub | ✅ 已上架 | https://skillhub.cn/skill/electron-licensing-insights | 2026-10-12 发布，2026-10-13 过审；v1.0.1 显示名称带「卡密」字样同样过审（实验证明标题带卡密≠拒审，内容干净即可） |
 
 ## 定位说明
 
 本 Skill 是 software-decard 的**纯知识科普姊妹版**：只讲授权机制原理（结构解剖、五种校验形态、RSA 签名数学、失效模式、自查清单），不含任何操作指令，为通过 SkillHub 安全审核而设计。完整实战手册指向 software-decard 仓库（GitHub + Gitee 双链）。
+
+## 审核实验结论（重要）
+
+- v1.0.0 显示名称「electron-licensing-insights Electron 授权机制深度解析」过审；
+- v1.0.1 走「更新」入口改显示名称为「**卡密与激活机制深度解析** electron-licensing-insights」+ 换自定义图标，复审**同样通过**（2026-10-13）；
+- 结论：SkillHub 安全审核针对的是**内容能力**（操作指令/引流注入层），不是主题词；内容干净的科普 Skill，标题/显示名称带「卡密」字样可正常过审。
 
 ## SkillHub 发布备注
 
